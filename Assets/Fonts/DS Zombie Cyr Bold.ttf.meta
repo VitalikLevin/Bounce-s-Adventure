@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f849e94bdaacb654cb6fecf539d845ab
+timeCreated: 1632580434
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DS Zombie Cyr
+  fontNames:
+  - DS Zombie Cyr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8a8527bd0a03fa548b1a62529349f0fd
+timeCreated: 1632580433
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pricedown Rus
+  fontNames:
+  - Pricedown Rus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
