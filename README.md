@@ -21,4 +21,4 @@ It's a RPG which was made with Unity Engine and C#.
  
 #### License
 
-This project has no license and it was made by Vitaliy Levin.
+This project has [MIT License](/license.txt) and it was made by Vitaliy Levin.
